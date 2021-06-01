@@ -1,0 +1,5 @@
+# Issb_86thBMAcandidatestats
+This is also my first big script ever. Sorry for the mistakes. I know a pro could'have made it more efficiant but thats the best I can do for now.
+This script will check written exam results with the issb websites call up list and tell you how many candidates have been called and how many are left.
+Edit the code for new BMA sessions. Just edit the prefix to find and Change the board roll lists.
+Have fun.
