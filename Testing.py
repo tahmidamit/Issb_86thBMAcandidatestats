@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-print('Hey there..! Checking 86th BMA-issb candidate statistics. Please wait' + '.'*20)
+print(' Hey there..! Checking 86th BMA-issb candidate statistics. Please wait' + '.'*20)
 
 res = requests.get('https://www.issb-bd.org/calluplist').text
 soup = BeautifulSoup(res, 'lxml')
